@@ -1,0 +1,14 @@
+body {
+    background-color: blanchedalmond;
+}
+main {
+    background-color: white;
+    padding: 24px;
+    margin: 40px;
+}
+.boxtitle {
+    font-size: 36px;
+    color: rgb(41, 168, 141);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 900;
+}
