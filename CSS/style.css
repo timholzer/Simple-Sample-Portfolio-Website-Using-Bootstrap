@@ -12,3 +12,9 @@ main {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-weight: 900;
 }
+footer {
+    background-color: rgb(119, 209, 190);
+}
+.margzero {
+    margin: 0%;
+}
