@@ -1,4 +1,4 @@
-Simple portfolio website using Nootstrap:
+Simple portfolio website using Bootstrap:
 
 Homepage Features:
 
